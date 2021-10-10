@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, sou Thiago Chaves e trabalho na area de <strong>Tecnologia da Informação e Desenvolvimaento Back-End</strong>.<br>
+  Olá, sou Thiago Chaves e trabalho na area de <strong>Tecnologia da Informação e Desenvolvimento Back-End</strong>.<br>
 </p>
 
 <p align="left">
