@@ -29,8 +29,7 @@
 
 ### :star2: General Statistics:
 
-[![Thiago Chaves GitHub stats](https://github-readme-stats.vercel.app/api?username=TSChaves&hide=stars,issues,prs,contribs&count_private=true&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/TSChaves/github-readme-stats)
-
+![TSChaves GitHub Stats](https://github-readme-stats.vercel.app/api?username=TSChaves&show_icons=true)
 
 ---
 
