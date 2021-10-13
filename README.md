@@ -15,7 +15,7 @@
 
 ### :zap: Languages:
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
 
 ### 📦 Databases:
 
@@ -31,7 +31,6 @@
 
 ![TSChaves GitHub Stats](https://github-readme-stats.vercel.app/api?username=TSChaves&show_icons=true)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={TSChaves}&theme=blue-green
 ---
 
 ### :white_check_mark: Connect with me! :speech_balloon:
