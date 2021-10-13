@@ -15,7 +15,7 @@
 
 ### :zap: Languages:
 
-![Java](https://img.shields.io/badge/-Java-007396?&logo=Java&logoColor=FFFFFF) ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=FFFFFF) ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?&logo=javascript&logoColor=000000) 
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=FFFFFF) ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?&logo=javascript&logoColor=000000) 
 
 ### 📦 Databases:
 
