@@ -15,11 +15,11 @@
 
 ### :zap: Languages:
 
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF)![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?&logo=javascript&logoColor=000000) ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
 
 ### 📦 Databases:
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=FFFFFF) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🧰 Tools:
 
@@ -31,6 +31,7 @@
 
 ![TSChaves GitHub Stats](https://github-readme-stats.vercel.app/api?username=TSChaves&show_icons=true)
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={TSChaves}&theme=blue-green
 ---
 
 ### :white_check_mark: Connect with me! :speech_balloon:
