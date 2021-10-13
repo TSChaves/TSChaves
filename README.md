@@ -15,11 +15,11 @@
 
 ### :zap: Languages:
 
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=FFFFFF) ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?&logo=javascript&logoColor=000000) 
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF)![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?&logo=javascript&logoColor=000000) ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
 
 ### 📦 Databases:
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=FFFFFF) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=postgreSQL&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=FFFFFF) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🧰 Tools:
 
