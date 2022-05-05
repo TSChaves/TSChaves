@@ -28,8 +28,7 @@
 ### 📃 Certified in:
 
 ### :star2: General Statistics:
-
-![TSChaves GitHub Stats](https://github-readme-stats.vercel.app/api?username=TSChaves&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TSChaves&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TSChaves&layout=compact)](https://github.com/TSChaves/github-readme-stats)
 ---
 
