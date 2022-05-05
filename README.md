@@ -29,7 +29,7 @@
 
 ### :star2: General Statistics:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TSChaves&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TSChaves&layout=compact)](https://github.com/TSChaves/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TSChaves&layout=compact)]
 ---
 
 ### :white_check_mark: Connect with me! :speech_balloon:
