@@ -30,7 +30,7 @@
 ### :star2: General Statistics:
 
 ![TSChaves GitHub Stats](https://github-readme-stats.vercel.app/api?username=TSChaves&show_icons=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TSChaves&layout=compact)](https://github.com/TSChaves/github-readme-stats)
 ---
 
 ### :white_check_mark: Connect with me! :speech_balloon:
