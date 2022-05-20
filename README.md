@@ -6,7 +6,7 @@
 * :wave: I'm **Thiago Chaves**.
 * :pushpin: From Juara - Mato Grosso, Brazil.
 * :mortar_board: I'm currently learning everything.
-* :mortar_board: 2021 Gols: Learn more about Html5, Css3, Node.JS, Javascript, Php and become a better programmer
+* :mortar_board: 2022 Gols: Learn more about Html5, Css3, Node.JS, Javascript, Php and become a better programmer
 
 
 ---
